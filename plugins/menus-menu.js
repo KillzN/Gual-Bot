@@ -34,7 +34,7 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `*┏━━━━━↝🥷🏼↜━━━━━┓*
-*┃👑 𝗖𝗿𝗲𝗮𝗱𝗼𝗿: 𝗞𝗜𝗟𝗟𝗭𝗡*
+*┃👑 𝗖𝗿𝗲𝗮𝗱𝗼𝗿: Felipe*
 *┃📲 wa.me/523222896200*
 *┗━━━━━⇝⚔️⇜━━━━━┛*
 
